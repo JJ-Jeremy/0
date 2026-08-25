@@ -1,7 +1,8 @@
 # 0
 python
 、
-
+https://walkinglabs.github.io/learn-harness-engineering/zh/projects/project-01-baseline-vs-minimal-harness/
+https://walkinglabs.github.io/learn-harness-engineering/zh/resources/
 https://swarmskills.openjiuwen.com/skills/c7dc8f03a5df49d78d2615f888495b11?version=1.0.0
 https://javaguide.cn/ai/agent/harness-engineering.html#harness-%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88
 https://keras.io/examples/
