@@ -22,3 +22,6 @@ https://teachablemachine.withgoogle.com/
 https://poloclub.github.io/
 
 https://github.com/datawhalechina/leedl-tutorial
+https://zh-v2.d2l.ai/
+https://www.cs.utoronto.ca/~fidler/teaching/2018/CSC2548.html
+https://d2l.ai/chapter_preface/index.html
